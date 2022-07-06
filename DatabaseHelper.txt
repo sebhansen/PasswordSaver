@@ -1,0 +1,6 @@
+﻿/////////////////// DATABASE HELPER ///////////////////
+##This is a helper class for the database. It is used to create connection to the database (and to execute queries).
+--- If you want to use this on your own machine, simply change the connection string below, to the one you use on your database. ---
+## CONNECTION STRING MUST BE ON LINE BELOW, OTHERWISE IT WILL NOT WORK!
+Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename="C:\Users\basse\source\repos\For sjov\PasswordSaver\PasswordSaver\Database1.mdf";Integrated Security=True
+## CONNECTION STRING MUST BE ON LINE ABOVE, OTHERWISE IT WILL NOT WORK!
