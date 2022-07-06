@@ -15,9 +15,6 @@ using System.Windows.Shapes;
 
 namespace PasswordSaver.View
 {
-    /// <summary>
-    /// Interaction logic for pageFrontPage.xaml
-    /// </summary>
     public partial class pageFrontPage : Page
     {
         public pageFrontPage()

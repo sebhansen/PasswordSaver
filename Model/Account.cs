@@ -20,5 +20,8 @@ namespace PasswordSaver.Model
             Email = email;
             Website = website;
         }
+        public Account() 
+        {
+        }
     }
 }

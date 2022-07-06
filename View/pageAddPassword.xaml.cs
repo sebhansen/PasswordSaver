@@ -16,9 +16,6 @@ using PasswordSaver.ViewModel;
 
 namespace PasswordSaver.View
 {
-    /// <summary>
-    /// Interaction logic for pageAddPassword.xaml
-    /// </summary>
     public partial class pageAddPassword : Page
     {
         public pageAddPassword()
